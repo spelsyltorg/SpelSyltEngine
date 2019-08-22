@@ -1,3 +1,6 @@
 [submodule "SpelSyltGfx"]
 	path = SpelSyltGfx
 	url = https://github.com/spelsyltorg/SpelSyltGfx.git
+[submodule "SpelSyltCommonLibrary"]
+	path = SpelSyltCommonLibrary
+	url = https://github.com/spelsyltorg/SpelSyltCommonLibrary.git
