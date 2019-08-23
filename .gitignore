@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# User Defined
+*.suo
+*.db
+*.opendb
+*.ipch
+*.db-shm
+*.db-wal
+*.pdb
+*.ilk
+*.filters
+*.user
+*/*/*/Debug/*
+*/Symbols/*
+*/trash/*
+
